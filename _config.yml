@@ -1,7 +1,7 @@
 # source: _pages
 include: [_pages]
 destination: docs
-baseurl: ""
+baseurl: "Healthy-Foods"
 url: ""
 
 # Build settings
