@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sam Meech-Ward
+title: 🍏
 permalink: /
 ---
 
