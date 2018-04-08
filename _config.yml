@@ -1,0 +1,12 @@
+# source: _pages
+include: [_pages]
+destination: docs
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+
+
+sass:
+    sass_dir: _sass
