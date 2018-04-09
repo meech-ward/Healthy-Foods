@@ -5,8 +5,15 @@ permalink: /children.html
 ---
 
 Children should be healthy
-I
-Think
-I
-understand
-now
+You
+are
+responsible
+for 
+your
+own
+health
+and
+that
+of
+your
+childrens.
