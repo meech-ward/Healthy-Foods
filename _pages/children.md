@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Children's Health
+title #Children
 permalink: /children.html
 ---
 
