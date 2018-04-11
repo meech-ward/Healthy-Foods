@@ -1,6 +1,6 @@
 ---
 layout: page
-title #Children
+title: Children
 permalink: /children.html
 ---
 
