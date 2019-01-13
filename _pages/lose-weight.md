@@ -29,6 +29,8 @@ Pistachios
 Sesame seeds
 Flax seeds
 Coconut milk
+Almond milk
+Cashew milk
 Cheese from grass fed cows, buffalo, sheep and goats
 Sustainably caught fish
 Pasture raised chickens and eggs from pasture raised chickens.
@@ -37,12 +39,15 @@ Full fat organic milk.
 Homemade mayonnaise (recipe)
 If you want to eat red meat, ensure it comes from grass fed cattle and only 100 grams per day.
 Organic bread, or if you have an allergy to gluten, almond flour and potato starch flatbreads (Recipe)
+Cassava wraps (recipe) 
+Sour dough bread
 Sweet potatoes
-All vegetables apart from Legumes and potatoes.
+All vegetables apart from Legumes and potatoes. (Just while you are losing weight)
 Fermented vegetables (recipe)
-Avoid Nightshade vegetables as much as possible (Peppers,raw tomatoes, potatoes, aubergine) Cooked tomatoes are good.
+Avoid Nightshade vegetables as much as possible (Peppers,raw tomatoes, potatoes, aubergine) Cooked tomatoes are good. These are OK if you
+are fit and well with no inflammation, diabetes or overweight
 Organic rice (if you do not have a sensitivity towards grains)
-For your lunch and dinner ensure your plate is ¾ full of vegetables and ¼ with protein (Fish, eggs, cheese or meat) If you are vegan ensure the same 1/4 vegan protein. You can have a small amount of carbs within your vegetable portion. (sweet potato, almond flour flatbread, organic rice)
+For your lunch and dinner ensure your plate is ¾ full of vegetables and ¼ with protein (Fish, eggs, cheese or meat) If you are vegan ensure the same 1/4 vegan protein. You can have a small amount of carbs within your vegetable portion. (sweet potato, almond flour flatbread, cassava flour flatbread, organic rice)
 Try to eat the nuts raw and up to 75 grams a day.
 Drink 2 litres of filtered water a day as well as herbal teas and coffee.
 1 small glass of red wine a day and 2 pieces of 70% cacao chocolate a day.
@@ -51,15 +56,15 @@ Items to avoid
 Sugar: including any foods containing sugar (read the labels)
 Vegetable oils
 Fruit juices and sodas containing sugar.
-Sweeteners, apart from: xylitol, 
+Sweeteners, apart from: xylitol, monk fruit, a little maple syrup, a little honey.
 Dried fruit (loaded with fruit sugar)
 Crisps
 Processed foods such as sliced bread, bacon, cured meats with nitrates, tinned food and long shelf life food.
 Margarines and anything containing margarine (pastries, biscuits etc.)
 
-A fool proof, researched way of losing weight is to follow the above and try intermittent fasting, just for 16 hours to begin with. So for example if you eat your last food at 7 pm, you don’t start your next meal until 11am. In between these times, you can drink as many herbal teas, water and a couple of cups of coffee as you want. If you find it tricky to begin with, try 13 hours, then 14 etc.
+A fool proof, researched way of losing weight is to follow the above and try intermittent fasting, just for 16 hours to begin with. So for example if you eat your last food at 7 pm, you don’t start your next meal until 11am the following morning. In between these times, you can drink as many herbal teas, water and a couple of cups of coffee as you want. People also report success whn drinking fruit smoothies, bone broth, as long as they have not been chewing anything on their intermittent fasting. If you find it tricky to begin with, try 13 hours, then 14 etc. Intermittent fasting has been researched to have so many benefits apart from weight loss, these are: removing inflammation from the body, increased energy, better sleep and improved mental clarity.
 
-Once that weight is off, it is so much easier to maintain and then you can introduce some treats, such as homemade ice cream,(recipe) almond flour cake(recipe) unpasteurised fresh orange juice, organic ale.
+Once that weight is off, it is so much easier to maintain and then you can introduce some treats, such as homemade ice cream,(recipe) almond flour cake(recipe), almond cookies (recipe) Lemon pollenta cake,(recipe) unpasteurised fresh orange juice, organic ale.
 
 A typical day might consist of:
 
@@ -93,7 +98,9 @@ Snack on some raw nuts.
 
 If you can incorporate this eating plan with some form of daily exercise, this will speed up the weight loss. 30 minutes fast walking a day is enough, but of course, go ahead and do as much exercise as you would like!
 
-Flat bread: 
+RECIPES
+
+Almond flour flat bread: 
 Equal amounts of Almond flour and potato starch flour,  1egg and liquid (Any type of organic milk, almond, coconut,etc, (add another egg if making a bigger amount) It lasts a few days in the fridge, keep in a jar with lid on.
 
 Stir in the egg and milk to the flours until all lumps have gone. Make it as thick or runny as you prefer. Thicker(like a very thick batter mix) for naan type breads, thinner (like a thick pancake mix) for wraps. (experiment for best results)
@@ -101,7 +108,21 @@ Either lightly fry in coconut oil, or place on greased baking sheet and grill or
 You can use this as a pizza base, by making it even thicker.
 
 You can add cheese and onion, garlic, tomato  to these for a more savoury bread. 
-For a sweet bread, add blueberries, cinnamon and a dash of honey. Serve with coconut cream
+For a sweet bread, add blueberries, cinnamon and a dash of honey. Serve with coconut cream.
+
+Cassava flour wraps:
+
+2 cups cassava flour
+1 cup coconut, almond, cashew or dairy milk. 
+1/2 cup extra virgin olive oil
+1/2 cup water
+1-2 teaspoons himalayan salt to taste
+fresh cracked pepper to taste- about 1-1 1/2 teaspoons
+Extra virgin olive oil or coconut oil for cooking
+Combine all ingredients in a bowl and mix until you have a nice dough. Divide into 10 equal parts and shape into balls. On a piece of parchment paper roll and pat each section of dough into a thin tortilla. You can either use your hands or a rolling pin for this. If the dough is sticking sprinkle with cassava flour.
+Heat a fry pan on the cooker  over medium heat. Drizzle the pan lightly with olive oil for cooking.
+Cook the tortillas for about 1-3 minutes on each side until it reaches desired consistency. 
+
 
 
 Home made Mayonnaise:
@@ -168,6 +189,7 @@ Add the onion, garlic, basil stalks and thyme leaves with another drizzle of oil
 Return the cooked veg to the pan and stir in the fresh and jar of tomatoes, the balsamic and a good pinch of sea salt and black pepper.
 Mix well, breaking up the tomatoes with the back of a spoon. Cover the pan and simmer over a low heat for 30 to 35 minutes, or until reduced, sticky and sweet.
 Tear in the basil leaves, finely grate in the lemon zest and adjust the seasoning, if needed. 
+
 Mashed cauliflower base for pizza
 1 cauliflower (about 750g/1lb 10oz)
 100g ground almonds
@@ -177,6 +199,7 @@ Mashed cauliflower base for pizza
 1 tbsp dried oregano
 Salt and pepper to tast
 Cook the cauliflower in pieces until just soft. Drain well and mash or put in food processor, add remaining ingredients and line greased baking tray or pizza pan with a layer, bake in oven for 10 minutes at around 200 degrees centigrade until lightly golden and then add your pizza toppings, returning to oven to cook.
+Chicken Salad:
  
 2 (6-ounce) skinless, boneless chicken breast halves or protein of your choice
 3/4 teaspoon salt, divided
@@ -195,6 +218,51 @@ Cook the cauliflower in pieces until just soft. Drain well and mash or put in fo
 Grated carrot, raw beetroot, fennel, all optional extras
 Extra virgin coconut oil for baking chicken
 Sprinkle chicken with 1/4 teaspoon salt and 1/2 teaspoon pepper. Heat a medium ovenproof skillet over medium-high heat. Coat pan with extra virgin coconut oil. Add chicken to pan; cook 3 minutes. Turn chicken over. Place pan in oven; bake at 400° for 8 minutes or until done. Remove chicken from pan, and let stand for 5 minutes. Shred chicken, and chill for 30 minutes. Cook rice according to package directions, when cooling add olive oil. Combine remaining 1/2 teaspoon salt, remaining 1/4 teaspoon pepper, juice, and oil in a large bowl, stirring with a whisk. Add chicken, rice, and all ingredients and toss gently,sprinkle with green onion tops and paprika. Serve with lemon wedges.
+
+Fermented vegetables
+Use whichever vegetables are your favourite. Grate or chop.
+Place in a large glass jar and cover with a salt brine (Salt and water) liquid or celery juice, until all veg are completely covered.
+Add some liquid from the top of your natural live yoghourt, mozzarella, kefir or add a probiotic powder to start the fermentation process. Place lid on tightly.
+Leave in a warm place 18 degrees centigrade or above, until you notice a few bubbles appearing. Normally 4-7 days. Now it starts to taste vinegary and you can transfer to the fridge for your everyday use.
+Next time you make a batch, you can use some of the liquid from your previous one as your ‘starter.’
+
+Lemon Polenta cake
+200 grams soft unsalted butter (plus some for greasing)
+100 grams coconut, xylitol or monk fruit sugar
+200 grams ground almonds
+100 grams fine polenta (or cornmeal)
+1½ teaspoons baking powder 
+3 large eggs
+zest of 3 lemons (save juice for topping)
+For the topping
+Juice of 3 lemons 
+75 grams coconut sugar, xylitol or monk fruit sugar
+METHOD
+Line the base of a 23cm / 9inch springform cake tin with parchment paper and grease its sides lightly with butter.
+Preheat the oven to 180°C/160°C Fan/gas mark 4/ 350°F.
+Beat the butter and sugar, either by hand in a bowl with a wooden spoon, or using a freestanding mixer.
+Mix together the almond flour, polenta and baking powder, and beat some of this into the butter-sugar mixture, followed by 1 egg, then alternate dry ingredients and eggs, beating constantly.
+Finally, beat in the lemon zest and pour, the mixture into your prepared tin and bake in the oven for about 35 minutes.
+Make the syrup by boiling together the lemon juice and sugar in a smallish saucepan until it thickens slightly.
+Prick the top of the cake all over with a cake tester , pour the warm syrup over the cake, and leave to cool before taking it out of its tin.
+
+Almond cookies
+2 tablespoons coconut oil
+3 tablespoons pure maple syrup
+1 large egg
+1 teaspoon pure vanilla extract
+2 cups almond flour
+1/2 teaspoon baking soda
+1/4 teaspoon sea salt.
+DIRECTIONS
+Preheat oven to 190 centigrade or 375 degrees Fahrenheit. Line a baking sheet with parchment paper or a silicone mat. Set aside.
+Add the coconut oil and the pure maple syrup to a large bowl. If the oil is very hard, melt for a few seconds. Stir briskly with a whisk until the syrup and oil are mixed together – this may take a minute or two. Add the egg and vanilla and whisk together until combined.
+In a medium bowl, stir together the almond flour, baking soda, and salt. Add the flour mixture to the wet ingredients and stir together with a wooden spoon until combined. Scoop mounded tablespoonfuls onto parchment paper, spacing about two inches apart. Press down gently with your fingers to flatten slightly. Bake until set and the edges are golden brown, 8-9 minutes. Remove from oven and let cool for about 5 minutes, then transfer to a wire rack to cool completely.
+Cookies keep well in an airtight container at room temperature for 4-5 days.
+As a treat add half a cup of chocolate chips to the recipe.
+Milks
+I have found the easiest milk to make is cashew milk, I have made almond and haxzelnut as well, butmy go to is always cashew for it's speed and versatility.
+
  
  
 
