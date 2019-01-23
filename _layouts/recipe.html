@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="post recipe-post">
+
+  <header class="post__header container container--inner">
+    <h1 class="post__title hide-on-small-only">{{ page.title | escape }}</h1>
+    <h1 class="post__title hide-on-med-and-up">{{ page.title-short | escape }}</h1>
+  </header>
+
+  <div class="post__content">
+    {{ content }}
+  </div>
+
+</article>
