@@ -1,0 +1,12 @@
+// ul {
+//   padding-left: 20px;
+//   list-style-type: inherit;
+//   & > li {
+//     list-style-type: inherit;
+//   }
+// }
+
+
+ul {
+  @extend .browser-default;
+}
