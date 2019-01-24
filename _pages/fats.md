@@ -1,7 +1,7 @@
-  y---
+---
 layout: page
 title: Fats
-permalink: /fats.html
+permalink: /fats
 ---
 
 Good fats and bad fats

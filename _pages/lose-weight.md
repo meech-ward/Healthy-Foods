@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lose Weight 
-permalink: /lose-weight.html
+permalink: /lose-weight
 ---
 
 If you are overweight and have tried dieting, it’s time you changed your eating habits for ever. Fad diets work for a short period of time, however if you return to what you normally ate, you will just put the weight back on. What is required is a better understanding of foods and nutrients your body requires for good health. Once you have this knowledge, the weight will come off you and stay off. 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cannabis Oil
-permalink: /cannabis.html
+permalink: /cannabis
 ---
 
 ☘️

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Children
-permalink: /children.html
+permalink: /children
 ---
 
 Children should be healthy

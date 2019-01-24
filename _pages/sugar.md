@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sugar
-permalink: /sugar.html
+permalink: /sugar
 ---
 
 Sugar is bad

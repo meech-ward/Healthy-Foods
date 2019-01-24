@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Healthy
+title: Happy Healthy Nut
 permalink: /
 ---
 
