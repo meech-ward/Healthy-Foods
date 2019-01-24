@@ -43,7 +43,10 @@
     }
     li:not(:first-child) .site-navigation__link {
       @extend .collection-item;
-      height: 50px;
+      // height: 80px;
+      padding-top: 0;
+    padding-bottom: 0;
+    // height: 50px;
     }
     li:last-child .site-navigation__link {
       border: 0;
