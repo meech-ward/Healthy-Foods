@@ -1,9 +1,32 @@
-// body {
-//   display: flex;
-//   min-height: 100vh;
-//   flex-direction: column;
-// }
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+.site-header {
+  width: 400px;
+  height: 100vh;
+  margin: 0;
+}
+.site-container {
+  width: calc(100vw - 400px);
+  height: 100vh;
+  overflow: scroll;
+  margin: 0;
+}
+.site-content {
+  padding: 20px;
+  width: 100%;
+}
+.site-footer {
+  width: 100%;
+  margin: 0;
+}
 
 // main {
 //   flex: 1 0 auto;
 // }
+
