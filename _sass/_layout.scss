@@ -16,6 +16,9 @@ body {
   height: 100vh;
   overflow: scroll;
   margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .site-content {
   padding: 20px;
