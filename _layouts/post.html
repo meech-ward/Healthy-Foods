@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-<article class="post page-container">
+
+<article class="post post--blog">
 
   <header class="post__header">
-    <h1 class="post__title">{{ page.title | escape }}</h1>
+    <h1 class="post__title hide-on-small-only">{{ page.title | escape }}</h1>
+    <h1 class="post__title hide-on-med-and-up">{{ page.title-short | escape }}</h1>
   </header>
 
   <div class="post__content">

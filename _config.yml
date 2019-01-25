@@ -15,10 +15,10 @@ collections:
         class: recipes
         output: true
         permalink: /recipes/:title
-    posts:
-        class: posts
+    blog:
+        class: blog
         output: true
-        permalink: /posts/:title
+        permalink: /blog/:title
 
 sass:
     sass_dir: _sass
