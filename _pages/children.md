@@ -4,6 +4,8 @@ title: Children
 permalink: /children
 ---
 
+![ADHD]({{ "/assets/healthy kids.jpeg" | relative_url }})
+
 As parents, carers or guardians, we are responsible for our children’s health. We watch them grow, pass all their milestones, get first teeth, start to walk and talk and then a lot of us allow them to eat sugary foods which are so harmful to them. In a recent survey in the UK it was discovered that by the age of 10, children exceed the maximum recommended sugar intake for an 18-year-old.
 
 The recommended daily maximum of sugar for children aged four to six is five cubes or 19g. For children aged seven to 10 this rises to six cubes (24g) and up to seven cubes (30g) for those aged 11 and over.
@@ -20,6 +22,8 @@ How can you reduce the amount of sugar a child eats daily?
 
 
 ### ADHD and ADD
+
+![ADHD]({{ "/assets/caution ADHD photo.jpeg" | relative_url }})
 
 When I was teaching in the US I was horrified at how many of my students had been prescribed ritalin for their hyperactivity or attention deficit….this drug has been classified by the Drug Enforcement Administration as a Schedule II narcotic—the same classification as cocaine, morphine and amphetamines. It’s possible side effects can be nervousness, insomnia, anorexia, loss of appetite, pulse changes, heart problems and weight loss. The manufacturer says it is a drug of dependency. Don’t you think that this should be a last resort drug after at least trying some dietary changes and supplements? In the UK over the past 10 Years the use of Ritalin and other ‘smart drugs’ has doubled. Almost 1.5 million prescriptions were dispensed by the NHS last year. Could this be that the increase in diagnoses has anything to do with the  foods our children are eating, which over the years are becoming more and more processed. My son, now aged 26 showed many signs of hyperactivity and attention deficit from the age of 2. I cut out all sugar and processed foods from his diet and introduced a high quality fish oil daily as well as a child’s probiotic. The probiotic is to make his tummy healthy and be ready to absorb all the fabulous nutrients. I made sure he had plenty of fresh air, burning off extra energy outdoors.This was enough to notice a huge difference in him. As he grew up into a teen, we had the help of a herbalist who introduced, a mix of gotu kola, pine bark and passion flower. Now as an adult, he has developed strategies to deal with the attention deficit, while continuing to eat a nutrient dense diet loaded with good fats. A study published in the British medical journal The Lancet indicated that in at least 2/3 of all ADHD cases, food sensitivities were the cause.
 That’s a lot of kids  being dosed with toxic pharmaceutical drugs to treat ADHD who simply don’t need them! This number is colossal. In the U.S. alone, that represents an estimated 5 million children. The researchers from The Netherlands who discovered this, Dr. Lidy Pelsser and Professor Jan Buitelaar said;

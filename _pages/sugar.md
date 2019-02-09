@@ -5,6 +5,8 @@ permalink: /sugar
 ---
 
 
+![sugar]({{ "/assets/Stop sugar.jpg" | relative_url }})
+
 **SUGAR** is the main cause of illness in the western world. Why? It causes excess acid in the body. For those of you with heartburn or digestive issues, have you ever noticed how much worse it becomes after eating or drinking sugary foods or drinks?  If you can cut sugar out of your diet, you will lead a far healthier life. Nobody said life was easy and giving up sugar can be a nightmare, but it will be so worth it!  Sugar causes inflammation and disease thrives on inflammation. We know it can be really hard for some of you who are eating and drinking a lot of sugar, but start by cutting down, until you have cut it out completely. It is remarkable how much better you will feel! If you have been eating and drinking a lot of sugar for many years, you are not going to feel better immediately you give up, you will probably feel pretty bad until it is completely out of your system. It might take a few weeks,before you feel a lot better, but stick with it! See the big picture!
 
 “Sugar’s not dangerous because of its calories, or because it makes you fat. Sugar is dangerous because it’s sugar. It’s not nutrition. When consumed in excess, it’s a toxin. And it’s addictive” Dr. Robert Lustig

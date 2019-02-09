@@ -5,6 +5,9 @@ permalink: /recipes
 class: recipes
 ---
 
+
+![nutrients]({{ "/assets/You are what you eat.jpeg" | relative_url }})
+
 <ul class="all-recipes post-list">
 
   {% assign sorted = site.recipes | sort: 'date' | reverse %}
