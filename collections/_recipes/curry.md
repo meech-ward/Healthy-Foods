@@ -6,7 +6,7 @@ title-short: "Curry"
 slug: "curry"
 ---
 
-Curry has become a staple diet in the UK, in my little town of roughly 27,000, we have 4 Indian restaurants. It is a great meal whatever season you are in and is so versatile as it keeps for a week in the fridge, infact, I believe it taasted better after a day or two!
+When I was living in Malaysia, my Mum would go to the market most days to buy fresh spices for the delicious curries she made. Those spices have so many health benefits! Curry has become a staple diet in the UK, in my little town of roughly 27,000, we have 4 Indian restaurants. It is a great meal whatever season you are in and is so versatile as it keeps for a week in the fridge, infact, I believe it tastes better after a day or two!
 
 #### Ingredients 
 
@@ -16,7 +16,7 @@ Feeds 4
 * 4cm piece of ginger
 * 2 cloves of garlic
 * olive oil
-* Make a [tikka masala paste](/recipes/tika-masala-paste) or use bought 2 tablespoons tikka masala paste
+* Make a [tikka masala paste](/recipes/tika-masala-paste) or use 2 tablespoons of bought tikka masala paste
 * 3 tablespoons natural yoghurt
 * 2 tablespoons tomato purée
 * 8 skinless free-range chicken thighs or fish or vegetables of your choice.
