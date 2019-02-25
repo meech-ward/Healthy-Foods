@@ -15,7 +15,7 @@ It's better to focus your diet on the healthier fats by including more fish, nut
 
 You can cut out all of your bad fats, immediately, however introduce the good fats slowly as your body becomes used to them. 
 
-We drizzle extra virgin olive oil over salads and vegetables, add coconut oil to our berry smoothies, and use mct oil as a base for salad dressings.(recipe) We also use grass fed butter on our homemade flatbreads (recipe) 
+We drizzle extra virgin olive oil over salads and vegetables, add coconut oil to our berry smoothies, and use mct oil as a base for salad dressings. We also use grass fed butter on our homemade flatbreads. 
  
 
 
