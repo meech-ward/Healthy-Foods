@@ -5,7 +5,11 @@ permalink: /
 ---
 
 ![Happy Healthy Nut]({{ "/assets/logo.png" | relative_url }})
+
 Optimise your health through lifestyle, exercise and nutrition.
+
+I have been fortunate enough to grow up in a Royal Airforce family, travelling the world to each new posting! My palate has been tantalised with all the foods my parents cooked, which I brought into my adult life. Now, as a grandmother to 2 granddaughters who also love their foods, I hope to pass the love of healthy foods on to future generations.
+
 Remember, you are responsible for your own health and as a parent you are responsible for your child’s health.  
 
 Even if you are moderately aware of what to eat for good health, it is still so confusing trying to  figure out what to eat in order to remain or indeed get fit, and improve our health. When it comes to healthy foods, there is so much different  information out there that it’s difficult to know where to look for  advice. Happyhealthynut has researched for over twenty years, to bring you this advice: “What on earth can I eat?” With our team of nutritional therapists and founder Diana Ward, herself an educator and nutritional therapist, we are committed to bringing you the most up to date, well researched information to help you all lead healthier lives.
