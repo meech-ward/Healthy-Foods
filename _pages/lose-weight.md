@@ -90,4 +90,4 @@ Another one could be:
   - Almond flour blueberry muffins, or nut squares or chocolate and pecan cake (all on the recipe's page).
 * Snack on some raw nuts.
 
-If you can incorporate this eating plan with some form of daily exercise, this will speed up the weight loss. 30 minutes fast walking a day is enough, but of course, go ahead and do as much exercise as you would like!
+If you can incorporate this eating plan with some form of daily exercise, this will speed up the weight loss. 30 minutes fast walking a day is enough, but of course, go ahead and do as much exercise as you would like but don’t stress yourself about it. It is better to do a nice walk and get a good nights sleep, rather than stressing over high intensity workouts. Do what is right for you. Research has proved that if you do not sleep well, you will raise your blood sugar levels, consistently craving carbs, therefore if you are not a good sleeper, follow our tips on the 'Sleep' blog post. 
